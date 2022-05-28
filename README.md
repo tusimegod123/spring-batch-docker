@@ -3,7 +3,6 @@
 ## Authors: ##
 
 	Godwin Tusime
-	Samuel Bartolome
 	
 ## MySQL Configuration (After step 3 on the execution part) ##
 	1.	Create a new Local Instance
